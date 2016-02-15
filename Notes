@@ -1,0 +1,15 @@
+<?php
+
+ $variable = "Bla"; //STATEMENT
+
+ if (condition) {
+ 	# code...
+ } else {
+ 	# code...
+ }
+
+
+
+
+
+?>
